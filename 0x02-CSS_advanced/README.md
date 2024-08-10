@@ -1,6 +1,6 @@
-<img src="./images/working_with_css_22218720ab-jpg.jpeg" alt="working with css">
-
 # CSS fundamentals
+
+<img src="./images/working_with_css_22218720ab-jpg.jpeg" alt="working with css">
 
 ## Overview
 
