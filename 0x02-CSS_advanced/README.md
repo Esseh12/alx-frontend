@@ -1,7 +1,5 @@
 # CSS fundamentals
 
-![learn css]('./images/working_with_css_22218720ab-jpg.jpeg')
-
 ## Overview
 
 CSS (Cascading Style Sheets) are used to style HTML.
