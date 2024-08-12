@@ -34,11 +34,11 @@ a{
     color: var(--color-primary);
 }
 
-section h1 ~ a,
-section h2 ~ a,
-section h3 ~ a,
-section h4 ~ a,
-section h5 ~ a,
-section h6 ~ a{
+a ~ section h1,
+a ~ section h2,
+a ~ section h3,
+a ~ section h4,
+a ~ section h5,
+a ~ section h6{
     font-family: var(--font-family-title);
 }
