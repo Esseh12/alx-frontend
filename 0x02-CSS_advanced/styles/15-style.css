@@ -5,8 +5,8 @@
     Creating new declaration with all section headings
 */
 
-*{
-    box-sizing: content-box;
+*, *::before, *::after{
+    box-sizing: border-box;
 }
 
 html {
