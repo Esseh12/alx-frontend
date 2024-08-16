@@ -34,8 +34,4 @@ The viewport is a meta seen in our first HTML advanced module. The width=device-
 <ul>
 <li><a href="https://web.dev/articles/responsive-web-design-basics#viewport">Responsive web design basics</a>
 </li>
-
-<li>
-<a href="">
-</li>
 </ul>
